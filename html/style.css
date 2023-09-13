@@ -1,0 +1,17 @@
+
+body {
+    background-image: url(\\ST01\users$\12DPMZvejnieks\Desktop\html\forest.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+  button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
